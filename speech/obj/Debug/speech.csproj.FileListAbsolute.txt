@@ -1,0 +1,6 @@
+C:\Users\ADMIN\source\repos\speech\speech\bin\Debug\speech.exe
+C:\Users\ADMIN\source\repos\speech\speech\bin\Debug\speech.pdb
+C:\Users\ADMIN\source\repos\speech\speech\obj\Debug\speech.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\speech\speech\obj\Debug\speech.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\speech\speech\obj\Debug\speech.exe
+C:\Users\ADMIN\source\repos\speech\speech\obj\Debug\speech.pdb
